@@ -1,0 +1,18 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/auth/login/page": "app/auth/login/page.js",
+  "/auth/register/page": "app/auth/register/page.js",
+  "/dashboard/doctor/page": "app/dashboard/doctor/page.js",
+  "/dashboard/government/page": "app/dashboard/government/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/dashboard/patient/page": "app/dashboard/patient/page.js",
+  "/doctor/add-record/page": "app/doctor/add-record/page.js",
+  "/doctor/patient-search/page": "app/doctor/patient-search/page.js",
+  "/doctor/patient/[patientId]/page": "app/doctor/patient/[patientId]/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/government/analytics/page": "app/government/analytics/page.js",
+  "/page": "app/page.js",
+  "/patient/history/page": "app/patient/history/page.js",
+  "/patient/profile/page": "app/patient/profile/page.js"
+}
