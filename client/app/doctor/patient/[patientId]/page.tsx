@@ -9,7 +9,6 @@ import {
   FileText,
   Activity,
 } from "lucide-react";
-
 import PatientInfoCard from "../../components/PatientInfoCard";
 import RecordCard from "../../../patient/components/RecordCard";
 
